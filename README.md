@@ -2,7 +2,7 @@
 <img src="https://github.com/berkaycenikli/berkaycenikli/assets/79867610/86c32b62-4276-4147-ae46-dbe5d19f32e3" alt="my banner">
 </p>
 <h1 align="center">Hi 👋, I'm Berkay Cenikli</h1>
-<h3 align="center">A passionate Full-Stack developer from Turkey</h3>
+<h3 align="center">A passionate Embedded Software Engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **Web Services**
 
