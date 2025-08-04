@@ -3,11 +3,12 @@
 </p>
 <h1 align="center">Hi 👋, I'm Berkay Cenikli</h1>
 <h3 align="center">A passionate Embedded Software Engineer from Turkey</h3>
-
+<!--
 - 🌱 I’m currently learning **Web Services**
-
+-->
+<!--
 - 💬 Ask me about **react, node**
-
+-->
 - 📫 How to reach me **berkaycenikli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
